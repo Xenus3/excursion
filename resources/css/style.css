@@ -8,10 +8,10 @@ header h1 {
 	font-weight: normal;
 	font-size: 50px;
 	color: white;
-	text-align: centered;
+	text-align: center;
 }
 
 header h6 {
-	text-align: centered;
+	text-align: center;
 	color: Aquamarine;
 }
