@@ -2,8 +2,7 @@
 	background-color: black;
 }
 
-
-header h1 {
+h1 {
 	font-family: Verdana;
 	font-weight: normal;
 	font-size: 50px;
@@ -11,7 +10,13 @@ header h1 {
 	text-align: center;
 }
 
-header h6 {
+h6 {
 	text-align: center;
 	color: Aquamarine;
+}
+
+video, img {
+	display: block;
+	margin: 0 auto;
+
 }
